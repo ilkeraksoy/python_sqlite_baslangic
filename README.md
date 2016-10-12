@@ -1,1 +1,1 @@
-# python_sqlite_baslangic
+Python ile SQLite’a Kısa Bir Giriş
